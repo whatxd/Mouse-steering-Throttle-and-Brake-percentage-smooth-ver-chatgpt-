@@ -1,5 +1,5 @@
 # Mouse-Steering-Throttle-Modes-Artificial-inteligence-
-Tested on 0.24.0 CSP
+Tested on 0.2.4 CSP
 
 A Mouse Steering upgrade for Assetto Corsa that adds 40% / 70% / 100% throttle modes, switched with Left Shift (customizable) 😎 Includes a second version where the throttle rises smoothly for better traction
 

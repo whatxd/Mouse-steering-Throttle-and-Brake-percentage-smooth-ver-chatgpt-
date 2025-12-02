@@ -1,4 +1,4 @@
-# Mouse steering Throttle & Brake percentage + smooth ver (chatgpt)
+# Mouse steering Throttle & Brake percentage + smooth. ver 2 (chatgpt)
 THIS WAS MADE almost ENTIRELY USING CHATGPT 🤖🤖🤖
 
 csp 0.2.4

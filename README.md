@@ -1,9 +1,37 @@
 # Mouse-Steering-Throttle-Modes-Artificial-inteligence-
-Tested on 0.2.4 CSP
+THIS WAS MADE almost ENTIRELY USING CHATGPT 🤖🤖🤖
 
-A Mouse Steering upgrade for Assetto Corsa that adds 40% / 70% / 100% throttle modes, switched with Left Shift (customizable) 😎 Includes a second version where the throttle rises smoothly for better traction
+csp 0.2.4
 
-Created with heavy assistance from ChatGPT (literally wrote 90% of it 🤖)
+Mouse Steering – Throttle & brake Percentage Modes + Smooth Version
+
+This mod adds Throttle & brake Percentage modes with custom percentage to Assetto Corsa’s in Mouse Steering:
+
+Throttle 40% – 70% – 100%
+Brake 20% - 40% - 70% - 100%
+
+There are two versions:
+
+1️ BaseAIraw (AC%RAW) – Percentage Modes 🗿
+
+✔ Throttle modes (40/70/100)
+✔ Brake modes (20/40/70/100)
+
+2️ BaseAIsoft (AC%SOFT) – Percentage Modes + Smooth pedals 🗿
+
+✔ Everything from BaseAIraw 🤑
+✔ Throttle & Brake now change smoothly
+
+!!!!!!!!INSTALLATION!!!!!!!!!! 🙀🙀🙀
+
+Choose the version you want (baseAIraw or baseAIsoft) and go to:
+
+Steam/steamapps/common/assettocorsa/extension/lua/mouse-steering/ ← drop here
+
+Now go to Settings>Custom shaders patch>General patch settings and search for "mouse steering tweaks"
+Mouse steering tweaks
+Enable "use script" and select in "script" AC%RAW or AC%SOFT
+Disable "use raw script
 
 download link i guess
 

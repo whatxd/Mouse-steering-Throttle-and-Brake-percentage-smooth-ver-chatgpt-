@@ -1,4 +1,4 @@
-# Mouse-Steering-Throttle-Modes-Artificial-inteligence-
+# Mouse steering Throttle & Brake percentage + smooth ver (chatgpt)
 THIS WAS MADE almost ENTIRELY USING CHATGPT 🤖🤖🤖
 
 csp 0.2.4

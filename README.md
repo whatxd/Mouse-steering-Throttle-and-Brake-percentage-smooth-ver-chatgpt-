@@ -7,7 +7,7 @@ Mouse Steering – Throttle & brake Percentage Modes + Smooth Version
 
 This mod adds Throttle & brake Percentage modes with custom percentage to Assetto Corsa’s in Mouse Steering:
 
-Throttle 40% – 70% – 100%
+Throttle 40% – 70% – 100% 
 Brake 20% - 40% - 70% - 100%
 
 There are two versions:
@@ -21,6 +21,8 @@ There are two versions:
 
 ✔ Everything from BaseAIraw 🤑
 ✔ Throttle & Brake now change smoothly
+
+
 
 !!!!!!!!INSTALLATION!!!!!!!!!! 🙀🙀🙀
 
